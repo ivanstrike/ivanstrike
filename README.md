@@ -1,8 +1,8 @@
-# Hey 👋, I’m Ivan Rezin!
+# Hey, I’m Ivan Rezin!
 
 I am engaged in backend development. I write backend using .NET Core. I am constantly learning new technologies and improving my programming skills.
 
-## 📱 Connect with Me
+## Connect with Me
 - [GitHub](https://github.com/ivanstrike)
 - [Telegram](https://t.me/Designstrike)
 
