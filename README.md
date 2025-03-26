@@ -1,4 +1,4 @@
-# Hey 👋, I’m Ivan Re!
+# Hey 👋, I’m Ivan Rezin!
 
 I am engaged in backend development. I write backend using .NET Core. I am constantly learning new technologies and improving my programming skills.
 
